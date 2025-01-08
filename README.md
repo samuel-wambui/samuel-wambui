@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuel-wambui
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python programing
-- 💞️ I’m looking to collaborate on ... python progaming
+- 🌱 I’m currently learning ... java, javaScript, HTML, CSS python programing
+- 💞️ I’m looking to collaborate on ... JAVA AND python progaming
 - 📫 How to reach me ... samuelngari13@gmail.com
 - phone 254746703511
  i began java programming on jan 6th 2024
